@@ -1,5 +1,8 @@
 # EX No.6.2.DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
-## DATE:05/09/26
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
@@ -47,7 +50,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ## INPUT: 
 ![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
 ## OUTPUT:
-<img width="657" height="471" alt="Screenshot 2026-09-08 163615" src="https://github.com/user-attachments/assets/2fe28819-95c0-482c-8332-8eb9d7197566" />
+<img width="657" height="471" alt="Screenshot(58)" src="https://github.com/user-attachments/assets/655eb32f-2a92-42b1-a27e-cf4412c6bafc" />
+
 
 
 ## RESULT:
